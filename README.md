@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome 👋
 My name is Rafael. I am currently a first-year Computer Science student at the University of Athnes.<br>
 Stolpe or Rafael, you decide.<br>  
 
