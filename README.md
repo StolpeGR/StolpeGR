@@ -2,7 +2,7 @@
 **My name is Rafael.** I am currently a first-year Computer Science student at the University of Athens.<br>  
 
 I primarily code in C (at least for now). My main goal is to get as good as someone can become with programming concepts<br>  
-My main interests are:  							<img align="right" width="150" height="350" src="tensazangetsu.gif">
+My main interests are:  
 - 💻️ Coding in C
 - 📐 Mathematics										
 - 🖲️ Older versions of Windows 
