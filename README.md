@@ -1,11 +1,11 @@
 # Welcome 👋
 My name is Rafael. I am currently a first-year Computer Science student at the University of Athens.<br>
-Stolpe or Rafael, you decide.<br>  
+**Stolpe or Rafael**, you decide.<br>  
 
 I primarily code in C (at least for now). My main goal is to get as good as someone can become with programming concepts<br>  
 My main interests are:  
 - 💻️ Coding in C
-- 📐 Calculus 
+- 📐 Calculus										<img align="right" width="100" height="100" src="tensa-zangetsu.gif"> 
 - 🖲️ Older versions of Windows 
 - 🖥️ Debian based distributions
 
