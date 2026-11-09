@@ -3,9 +3,9 @@ My name is Rafael. I am currently a first-year Computer Science student at the U
 **Stolpe or Rafael**, you decide.<br>  
 
 I primarily code in C (at least for now). My main goal is to get as good as someone can become with programming concepts<br>  
-My main interests are:  
+My main interests are:  							<img align="right" width="100" height="100" src="tensa-zangetsu.gif">
 - 💻️ Coding in C
-- 📐 Calculus										<img align="right" width="100" height="100" src="tensa-zangetsu.gif"> 
+- 📐 Calculus										
 - 🖲️ Older versions of Windows 
 - 🖥️ Debian based distributions
 
